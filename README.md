@@ -1,2 +1,2 @@
-# netflix-eda-project
+# Netflix-EDA-Project
 Project Overview
