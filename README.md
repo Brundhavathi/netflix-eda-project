@@ -16,9 +16,13 @@
 
 🎯 **Objectives**
 **Explore the composition of Netflix content: movies vs TV shows.
+
 **Analyze release trends over the years.
+
 **Identify popular genres and their distribution.
+
 **Examine the geographical distribution of content.
+
 **Highlight insights and patterns in Netflix’s content library.
 
 🗂** Dataset**
@@ -28,24 +32,39 @@
 **Description:** Contains information about movies and TV shows on Netflix, **including:**
 
 title: Name of the movie/show
+
 type: Movie or TV Show
+
 director, cast: People involved
+
 country: Country of origin
+
 date_added: Date added to Netflix
+
 release_year: Original release year
+
 rating: Netflix rating
+
 duration: Duration or number of seasons
+
 listed_in: Genre / category
+
 description: Short synopsis
 
 🛠 **Tools & Libraries**
 
 Python 3.x
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 plotly
+
 Jupyter Notebook
 
 📊 Exploratory Analysis Highlights
