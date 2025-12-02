@@ -78,3 +78,8 @@ Jupyter Notebook
 **Country Analysis:** Top countries producing Netflix content.
 
 **Season Duration Analysis:** Patterns in TV shows by number of seasons.
+
+**SOURCE** : https://www.kaggle.com/datasets/padmapriyatr/netflix-titles
+
+**FINDINGS** 
+
