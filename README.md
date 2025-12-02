@@ -67,7 +67,7 @@ plotly
 
 Jupyter Notebook
 
-📊 Exploratory Analysis Highlights
+**📊 Exploratory Analysis Highlights**
 
 **Content Type Distribution:** Movies vs TV shows.
 
@@ -79,7 +79,22 @@ Jupyter Notebook
 
 **Season Duration Analysis:** Patterns in TV shows by number of seasons.
 
-**SOURCE** : https://www.kaggle.com/datasets/padmapriyatr/netflix-titles
 
-**FINDINGS** 
+**🔍 Key Findings**
+
+**Movies** dominate the platform, making up the majority of titles compared to TV Shows.
+
+**United States, India,** and *8the United Kingdom*8 contribute the highest number of Netflix titles, showing a strong concentration of content from these regions.
+
+**TV-MA** is the most common maturity rating, indicating that Netflix hosts a significant amount of adult-oriented content.
+
+**Drama, Comedy, and Documentaries** are among the most frequent genres, showing user preference for broad-appeal and informative content.
+
+The number of titles has **increased** significantly in recent years, reflecting Netflix’s **rapid expansion and aggressive content acquisition strategy.**
+
+TV Shows added in recent years tend to have **shorter seasons**, indicating Netflix’s shift toward concise, binge-able storytelling.
+
+
+**DATASET**: Netflix Movies and TV Shows
+**SOURCE** : https://www.kaggle.com/datasets/padmapriyatr/netflix-titles
 
